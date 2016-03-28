@@ -1,0 +1,22 @@
+{
+  "name": "rails-angular",
+  "homepage": "https://github.com/derk153/rails-angular",
+  "authors": [
+    "Alex Z <derk153@gmail.com>"
+  ],
+  "description": "Rails + AngularJS sample app",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "rails",
+    "angular.js"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
